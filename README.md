@@ -1,16 +1,61 @@
-# untitled7
+# 🌦 Weather App
 
-A new Flutter project.
+A modern and responsive Weather Application built using Flutter.  
+This app provides real-time weather updates using REST API integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Search weather by city name
+- 🌡 Real-time temperature updates
+- ☁ Weather condition (Cloudy, Rainy, Sunny, etc.)
+- 📍 Current location weather
+- 🔄 Pull to refresh
+- ❌ Proper error handling
+- 📱 Responsive UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- REST API Integration
+- HTTP package
+- JSON Parsing
+- State Management (setState / Provider)
+
+---
+
+
+
+## 🔌 API Used
+
+OpenWeatherMap API (or your API name)
+
+---
+
+## 🧠 What I Learned
+
+- How to integrate REST APIs in Flutter
+- Handling asynchronous programming
+- JSON parsing and model creation
+- Managing app states efficiently
+- Error handling and loading indicators
+
+---
+
+## 📦 Installation
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Add your API key
+4. Run `flutter run`
+
+---
+
+## 👨‍💻 Author
+
+Vikas Sonawane  
+Flutter Developer
